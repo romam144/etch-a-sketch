@@ -82,6 +82,7 @@ button{
     box-shadow: 0px 5px 5px black;
     border: 2px solid var(--main-color);
     background-color: var(--bg-color);
+    font-weight: bold;
 }
 
 button:hover{
